@@ -426,6 +426,7 @@
       "cooked_porkchop": "2025-11-02 03:47:53 +0700",
       "apple": "2025-10-17 20:55:57 +0700",
       "bread": "2025-10-18 00:08:20 +0700",
+      "cooked_mutton": "2025-11-02 05:05:51 +0700",
       "cooked_cod": "2025-10-18 15:27:50 +0700",
       "chorus_fruit": "2025-10-31 21:02:19 +0700",
       "cooked_beef": "2025-11-01 16:20:56 +0700",
@@ -3462,6 +3463,24 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-11-02 02:21:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-11-02 05:05:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-11-02 05:05:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-11-02 05:05:28 +0700"
     },
     "done": true
   },
